@@ -23,7 +23,7 @@ def add(a, b):
 # a -- minuend
 # b -- subtrahend
 def sub(a, b):
-    return a - b
+    return a + b
 
 # Multiply function
 # a -- multiplicand
