@@ -48,7 +48,7 @@ def div(a, b):
 a = None
 b = None
 op = None
-
+print "Welcome to PyCalc!"
 while (True):
     # get input values
     a = raw_input("Enter the first argument: ")
